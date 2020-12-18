@@ -41,13 +41,13 @@ Skills
 ======
   
 | Machine Learning            | Software | 
-| ------------------------    | ---------| 
+| --------------------------- | ---------| 
 | OpenCV                      | Docker   |   
 | scikit-learn                | LATEX    | 
-| PyTorch                     | mongodb  | 
+| PyTorch                     | MongoDB  | 
 | Keras                       | Python   |  
-| TensorFlow                  | MATLAB   |  
-| object Detection            |          |
+| TensorFlow                  | C++      |  
+| object Detection            | Matlab   |
 | Natural Language Processing |          |          
 | Semi-Supervised learning    |          |     
 | Graph Neural Networks       |          |   
