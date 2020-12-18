@@ -13,7 +13,7 @@ I'm Anubrata Bhowmick, a Data Science masters student at the University of Twent
 
 I've graduated from West Bengal University of Technology with a Bachelor's degree in Information Technology and then undergoing my Master's from the University of Twente in Enschede, Netherlands.
 
-My industrial journey started at [TCS Digital, Kolkata](hhttps://dss.tcs.com/), as a Systems Engineer, where I worked on various projects including a Recommendation Engine.
+My industrial journey started at [TCS Digital, Kolkata](https://dss.tcs.com/), as a Systems Engineer, where I worked on various projects including a Recommendation Engine.
 
 Currently, I am working for [Philips Research, Eindhoven](https://www.philips.com/a-w/research/home). Here, my work revolves around studying the brain signals to understand which connections are responsible for resilience.
 
