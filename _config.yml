@@ -18,9 +18,9 @@ name                     : &name "Anubrata Bhowmick"
 
 
 description              : &description 
-                              | 
-                                Research & Development Intern @ Philips Research
-                                Master student @ University of Twente
+                            | 
+                              Research & Development Intern @ Philips Research
+                              Master student @ University of Twente
                                 
 url                      : http://anubratabhowmick.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
