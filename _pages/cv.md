@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "[Curriculum Vitae in pdf format](https://alisher-ai.github.io/files/CV_Alisher_Abdulkhaev.pdf)"
+title: "[Curriculum Vitae in pdf format](https://anubratabhowmick.github.io/files/Anubrata_Bhowmick_Resume.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
