@@ -83,8 +83,8 @@ Certificates
 
 Projects
 ======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.portfolio  %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
   
   
