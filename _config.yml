@@ -5,17 +5,24 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+kramdown:
+  hard_wrap: true
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Anubrata's Personal Webpage"
 title_separator          : "-"
 name                     : &name "Anubrata Bhowmick"
-description              : &description 
-                              |
-                                Research & Development Intern @ Philips Research
-                                Data Science Masters @ University of Twente
 
-url                      : https://anubratabhowmick.github.io
+
+
+
+description              : &description 
+                              | 
+                                Research & Development Intern @ Philips Research
+                                Master student @ University of Twente
+                                
+url                      : http://anubratabhowmick.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anubratabhowmick/anubratabhowmick.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -61,7 +68,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &anubrata_gunner
 facebook:
   username               :
   app_id                 :
@@ -85,15 +92,17 @@ analytics:
 # Site Author
 author:
   name             : "Anubrata Bhowmick"
-  avatar           : "profile.png"
-  bio              : |
-                        Research & Development Intern @ Philips Research
-                        Data Science Masters @ University of Twente
+  avatar           : "profile.jpg"
+  bio              :  
+                    | 
+                      Research & Development Intern @ Philips Research
+                      Master student @ University of Twente
+                    
   location         : "Enschede, Netherlands"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "mailto:anubratabhowmick@gmail.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : anubratabhowmick@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -108,14 +117,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "anubratabhowmick"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "aanubratabhowmick" # "https://www.linkedin.com/in/alisher-abdulkhaev/"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "anubrata_gunner"
+  twitter          : "@anubrata_gunner"
   vine             :
   weibo            :
   xing             :
