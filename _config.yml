@@ -19,11 +19,10 @@ name                     : &name "Anubrata Bhowmick"
 
 description              : &description 
                               | 
-                                ML Engineer @ Browzzin
-                                Board Director @ MLTokyo
-                                Doctoral candidate @ University of Tsukuba
+                                Research and Development Intern @ Philips Research
+                                Master student @ University of Twente
                                 
-url                      : https://alisher-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anubratabhowmick.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alisher-ai/alisher-ai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -96,9 +95,8 @@ author:
   avatar           : "profile.png"
   bio              :  
                     | 
-                    ML Engineer @ Browzzin
-                    Board Director @ MLTokyo
-                    Ph.D. candidate @ University of Tsukuba
+                      Research and Development Intern @ Philips Research
+                      Master student @ University of Twente
                     
   location         : "Tokyo, Japan"
   employer         :
