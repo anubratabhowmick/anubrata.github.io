@@ -23,7 +23,7 @@ Education
 ======
 * 2019 - 2021 (expected): MSc. in Computer Science, University of Twente, (GPA: 7.2*/10.0)
   * **Master Thesis**: _Identifying markers of resilience_ -
-  Can we identifu markers of brain resilience from fMRI and MRI images using Deep Learning(ongoing) 
+  Can we identify markers of brain resilience from fMRI and MRI images using Deep Learning(ongoing) 
 * 2012 - 2016: B.Tech. in Information Technology, Bengal Institute of Technology, 2016 (GPA: 8.15/10.0)
 
 
