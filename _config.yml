@@ -10,22 +10,21 @@ kramdown:
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alisher's Personal Webpage"
+title                    : "Anubrata's Personal Webpage"
 title_separator          : "-"
-name                     : &name "Alisher Abdulkhaev"
+name                     : &name "Anubrata Bhowmick"
 
 
 
 
 description              : &description 
-                              | 
-                                ML Engineer @ Browzzin
-                                Board Director @ MLTokyo
-                                Doctoral candidate @ University of Tsukuba
+                            | 
+                              Research & Development Intern @ Philips Research
+                              Master student @ University of Twente
                                 
-url                      : https://alisher-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://anubratabhowmick.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alisher-ai/alisher-ai.github.io"
+repository               : "anubratabhowmick/anubratabhowmick.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -69,7 +68,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &anubrata_gunner
 facebook:
   username               :
   app_id                 :
@@ -92,19 +91,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alisher Abdulkhaev"
+  name             : "Anubrata Bhowmick"
   avatar           : "profile.png"
   bio              :  
                     | 
-                    ML Engineer @ Browzzin
-                    Board Director @ MLTokyo
-                    Ph.D. candidate @ University of Tsukuba
+                      Research & Development Intern @ Philips Research
+                      Master student @ University of Twente
                     
-  location         : "Tokyo, Japan"
+  location         : "Enschede, Netherlands"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : alisher.abdulkhaev@gmail.com
+  email            : anubratabhowmick@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -113,20 +111,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alisher-ai"
+  github           : "anubratabhowmick"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "alisher-abdulkhaev" # "https://www.linkedin.com/in/alisher-abdulkhaev/"
+  linkedin         : "aanubratabhowmick" # "https://www.linkedin.com/in/alisher-abdulkhaev/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@alisher_ai"
+  twitter          : "@anubrata_gunner"
   vine             :
   weibo            :
   xing             :
