@@ -1,8 +1,8 @@
 ---
-title: "Microsoft Malware Prediction"
-excerpt: "Microsoft Kaggle Competition on Malware Prediction<br/><br/><img src='/files/microsoft_pred.png'>"
+title: "Classification of COVID-19 using CT-Scan Images"
+excerpt: "Classified subjects suffering from COVID-19 with 70% accuracy using CT-Scan Images<br/><br/><img src='/files/covid_ct.png'>"
 collection: portfolio
 ---
-The project aims to successfully predict if a windows machine (computer) would be affected with malware or not using different machine learning algorithms and compare their performances. The dataset was taken from a kaggle competition (link provided in the References ) hosted by Microsoft. Different machine learning models like Logistic Regression, Decision Tree, Neural Network and LightGradient Boosting Machine were used to model data after preprocessing the dataset. At the end, all models are tested and results are compared. LightGBM performed the best, followed by Decision Tree, Logistic Regression and Neural Network.
+This project aims at classification COVID-19 from the publicly available CT-Scan Images by finding out textures using Local Binary Pattern and Dominant Neighbourhood Structure and using their classification in a separate SVM model to get the overall classification, which stood at a moderate 72%.
 
-GitHub Link: <a href="https://github.com/anubratabhowmick/Machine-Learning-Project">Click Here</a>
+GitHub Link: <a href="https://github.com/anubratabhowmick/COVID_Classification">Click Here</a>

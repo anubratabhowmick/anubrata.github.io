@@ -1,8 +1,8 @@
 ---
-title: "Early identification of complications after surgery"
-excerpt: "Data-driven project, helping us to identify signs of complications after surgery<br/><br/><img src='/files/early_ident_surgery.png'>"
+title: "Microsoft Malware Prediction"
+excerpt: "Microsoft Kaggle Competition on Malware Prediction<br/><br/><img src='/files/microsoft_pred.png'>"
 collection: portfolio
 ---
-This paper provides a study of the MoViSign (Mobile Vital Sign tracking in high-risk surgical ward patients) data and gives insights on methods that might be used to detect complications at an early phase by analyzing subject characteristics, abnormalities in vital signs and complication events. Our paper also binds new findings based on Machine Learning, predicting the occurrence of complications by having a set of sensor vital readings as parameters.
+The project aims to successfully predict if a windows machine (computer) would be affected with malware or not using different machine learning algorithms and compare their performances. The dataset was taken from a kaggle competition (link provided in the References ) hosted by Microsoft. Different machine learning models like Logistic Regression, Decision Tree, Neural Network and LightGradient Boosting Machine were used to model data after preprocessing the dataset. At the end, all models are tested and results are compared. LightGBM performed the best, followed by Decision Tree, Logistic Regression and Neural Network.
 
-GitHub Link: <a href="https://github.com/anubratabhowmick/DataScienceProject">Click Here</a>
+GitHub Link: <a href="https://github.com/anubratabhowmick/Machine-Learning-Project">Click Here</a>

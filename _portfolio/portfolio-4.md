@@ -1,8 +1,8 @@
 ---
-title: "Augmenting context-aware citation recommendations with citation and co-authorship history"
-excerpt: "Improving academic retrieval with domain specific embeddings and co-authorship network<br/><br/><img src='/files/retrieval.jpg'>"
+title: "Early identification of complications after surgery"
+excerpt: "Data-driven project, helping us to identify signs of complications after surgery<br/><br/><img src='/files/early_ident_surgery.png'>"
 collection: portfolio
 ---
-We propose the extension of the model proposed by Jeong, Jang & Park (2020) by combining the context, citation history with co-authorship information into the recommendation system. We also propose to use more domain-specific embeddings to better capture the semantics in the context. Our experiments show the positive effect of co- authorship information on citation recommendations, and that our model based on the combination of domain- specifically embedded context, the citation and the co-authorship history significantly outperforms the basic context-based recommendation model.
+This paper provides a study of the MoViSign (Mobile Vital Sign tracking in high-risk surgical ward patients) data and gives insights on methods that might be used to detect complications at an early phase by analyzing subject characteristics, abnormalities in vital signs and complication events. Our paper also binds new findings based on Machine Learning, predicting the occurrence of complications by having a set of sensor vital readings as parameters.
 
-GitHub Link: <a href="https://github.com/anubratabhowmick/tf-BERT-GCN">Click Here</a>
+GitHub Link: <a href="https://github.com/anubratabhowmick/DataScienceProject">Click Here</a>
